@@ -1,0 +1,27 @@
+{
+  "name": "ppt-to-json",
+  "version": "1.0.0",
+  "description": "Simple pkg to convert power point docs to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ppt"
+  ],
+  "author": "Paul Jeremiah Mugaya",
+  "license": "ISC",
+  "dependencies": {
+    "libreoffice-convert": "^1.3.3",
+    "pdf-to-text": "0.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulgrammer/ppt-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paulgrammer/ppt-to-json/issues"
+  },
+  "homepage": "https://github.com/paulgrammer/ppt-to-json#readme"
+}
